@@ -28,7 +28,8 @@ Skill
  
 > - Jade palace chickens now animate
 > - Fire/magma sprite particle count reduced from 300 -> 80 to reduce lag
-
+> - Arachne Queen Chest now appears on Epic
+> - Electrum Scroll in Helos Temple dialog no longer fades permanently
 
 # Ragnarok
 
@@ -52,6 +53,8 @@ Quest
 Misc
 > - Inventory textures for some Swords/Thrown rotated to stay consistent to their item type 
 > - Prospon chest appears on Normal
+> - Guardian Stones / Seal of Fate volume adjusted
+
 
 # Atlantis
 
